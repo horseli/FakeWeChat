@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">微信截图</string>
+    <string name="wechat">微信</string>
+    <string name="choose_person">选择发送人</string>
+    <string name="content">请输入聊天内容：</string>
+    <string name="edit_hint">点这里</string>
+    <string name="singletalk">微信单聊</string>
+    <string name="delete">清空</string>
+    <string name="TODO">TODO</string>
+    <string name="me">自己</string>
+    <string name="duifang">对方</string>
+    <string name="setting">设置资料</string>
+    <string name="addtalk">添加对话</string>
+    <string name="preview">生成预览</string>
+    <string name="nullMsg">空白消息</string>
+    <string name="chooseok">确定</string>
+    <string name="header">头像</string>
+    <string name="_00_00">00:00</string>
+    <string name="NA">未知好友</string>
+    <string name="send">发送</string>
+
+
+</resources>
